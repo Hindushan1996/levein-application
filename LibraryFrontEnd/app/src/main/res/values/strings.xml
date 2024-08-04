@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="nav_home">home</string>
+    <string name="nav_add_author">Add Author</string>
+    <string name="nav_add_book">Add Book</string>
+    <string name="enter_isbn">Enter ISBN</string>
+    <string name="enter_book_name">Enter Book Name</string>
+    <string name="enter_author_first_name">Enter Author First Name</string>
+    <string name="enter_author_last_name">Enter Author Last Name</string>
+    <string name="save">Save</string>
+    <string name="edit_book">Edit Book</string>
+    <string name="edit_author">Edit Author</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="isbn">ISBN</string>
+    <string name="book_name">Book Name</string>
+    <string name="author_name">Author Name</string>
+    <string name="no_records">No Records.</string>
+</resources>
